@@ -1,0 +1,41 @@
+/* comentários no css devem apresentar essa estrutur*/
+
+
+body {
+   background: cadetblue;
+}
+
+
+#title, .subtitle, .post_title {
+    color: brown;
+}
+
+.post_title {
+    font-size: 20px;
+    font-style: italic;
+    color: rgba(100, 8, 8, 0.911);
+    margin: 14px 0 14px 0;
+    
+}
+
+.post {
+    background: white;
+    padding: 10px 0 15px 10px;
+    border-radius: 5%;
+    border: 3px solid #000;
+    margin: 10px;
+    background-image: url(/* essa forma é possível pôr fotos atrás do texto */ );  
+
+    
+}
+
+.post_text {
+    color: rgb(0, 0, 0);
+    font-size: 18px
+    
+}
+
+.img_post {
+    border-radius: 10%;
+
+}
